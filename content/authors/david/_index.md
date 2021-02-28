@@ -1,19 +1,12 @@
 ---
 title: David
 bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
+  Professor of Digital Innovation @HWR_Berlin; former head of unit "Applications and Data Management" at Berlin State Library: programming Python, writing Tex
 avatar: /images/david_400.jpg
 featured: true
 social:
   - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
+    url: https://github.com/elektrobohemian
+  - title: twitter
+    url: https://twitter.com/dzellhf
 ---

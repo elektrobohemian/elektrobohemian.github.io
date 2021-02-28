@@ -1,15 +1,15 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Featured Projects of David Zellhöfer - www.8bit-inferno.de"
 # Novela settings
 theme = "hugo-theme-novela"
 
 paginate = 6
 
 [social]
-twitter= "https://twitter.com/forestryio"
-github= "https://github.com/forestryio/novela-hugo-starter"
-linkedin= "https://www.linkedin.com/company/forestry.io"
+twitter= "https://twitter.com/dzellhf"
+github= "https://github.com/elektrobohemian"
+linkedin= "#"
 instagram = "#"
 dribbble = "#"
 youtube = "#"

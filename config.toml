@@ -2,7 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Featured Projects of David Zellhöfer - www.8bit-inferno.de"
 # Novela settings
-theme = "hugo-theme-novela"
+theme = "novela-david"
 
 paginate = 6
 

@@ -4,6 +4,3 @@
 [submodule "hugo-theme-novela"]
 	path = hugo-theme-novela
 	url = https://github.com/forestryio/hugo-theme-novela.git
-[submodule "themes/hugo-theme-novela"]
-	path = themes/hugo-theme-novela
-	url = https://github.com/forestryio/hugo-theme-novela.git

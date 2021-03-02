@@ -1,7 +1,12 @@
 ---
-title: "Post2"
-date: 2021-02-27T17:05:08+01:00
+title: "Stabi Hacks"
+date: 2021-03-02T17:05:08+01:00
 draft: false
-hero: "/images/blank.gif"
+hero: "/images/stabi_hacks.png"
+authors:
+  - David
 ---
 
+Testtext
+
+[Repository on GitHub](https://github.com/elektrobohemian/StabiHacks)
